@@ -56,6 +56,9 @@ step-7: Install Apple's tensorflow-metal to use Apple Metal (Apple's GPU framewo
 python -m pip install tensorflow-metal
 ```
 
+To see step by step process refer this video too: 
+
+"https://www.youtube.com/watch?v=_1CaUOHhI6U"
 
 
 
